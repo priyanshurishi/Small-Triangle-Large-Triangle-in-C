@@ -1,0 +1,1 @@
+# Small-Triangle-Large-Triangle-in-C
